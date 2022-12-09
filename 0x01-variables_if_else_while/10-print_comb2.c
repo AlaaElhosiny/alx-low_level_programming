@@ -1,6 +1,6 @@
 /*
  * File: 10-print_comb2.c
- * Auth: Brennan D Baraban
+ * Auth: Alaa
  */
 
 #include <stdio.h>
