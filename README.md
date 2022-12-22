@@ -17,42 +17,6 @@ algorithm section .
 * [0x06. C - Pointers, arrays and strings](./0x06-pointers_arrays_strings)
 
 
-## Requirements
-
-Working with this project require you to have some tools installed: 
-* GCC : [GNU Compiler](https://gcc.gnu.org/)
-* Betty  : [C code checker](https://github.com/holbertonschool/Betty.git) 
-
-
-## Navigation Guide
-
-To access any project you are willing to view , please proceed like this:
-
-* clone the repository
-
-
-
-        - git clone https://github.com/Pericles001/alx-low_level_programming
-        - cd alx-low_level_programming
-
-
-* open your desired project (we take Hello world project as example)
-
-
-
-        - cd [0x00. C - Hello, World](./0x00-hello_world)
-
-
-* test your desired file
-
-
-
-        - gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c 4-puts
-        - ./4-puts
-  
-* Repeat with other files or projects
-
-
 ## Author
 
 * **Alaa Elhosiny** <[AlaaElhosiny](https://github.com/AlaaElhosiny)>
