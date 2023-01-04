@@ -2,34 +2,6 @@
 ===================
 
 -   By Julien Barbier
--   Ongoing project - started 09-15-2021, must end by 09-16-2021 (in about 4 hours) - you're done with 0% of tasks.
--   Checker was released at 09-15-2021 12:00 AM
--   QA review fully automated.
-
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/219/a88.jpg)
-
-Resources
----------
-
-**Read or watch**:
-
--   [0x08. Recursion, introduction](https://alx-intranet.hbtn.io/rltoken/dzZB83Hm3lO7dScjhebAxw "0x08. Recursion, introduction")
--   [What on Earth is Recursion?](https://alx-intranet.hbtn.io/rltoken/xYjKl3024oN58Bi_621_vQ "What on Earth is Recursion?")
--   [C - Recursion](https://alx-intranet.hbtn.io/rltoken/u4ojc5CZpf4qiuQvmXCiOA "C - Recursion")
--   [C Programming Tutorial 85, Recursion pt.1](https://alx-intranet.hbtn.io/rltoken/Wv-wffgpXelN9ZTrbmiOyA "C Programming Tutorial 85, Recursion pt.1")
--   [C Programming Tutorial 86, Recursion pt.2](https://alx-intranet.hbtn.io/rltoken/7GVdI-KT-M1vOIzwEjSahQ "C Programming Tutorial 86, Recursion pt.2")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/m6zCd6ius5xDzpuPxT4_aQ "explain to anyone"), **without the help of Google**:
-
-### General
-
--   What is recursion
--   How to implement recursion
--   In what situations you should implement recursion
--   In what situations you shouldn't implement recursion
 
 Requirements
 ------------
