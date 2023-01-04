@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-    int r;
+   int r;
 
     r = _pow_recursion(1, 10);
     printf("%d\n", r);
