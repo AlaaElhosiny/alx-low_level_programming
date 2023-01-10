@@ -35,4 +35,4 @@ char *str_concat(char *s1, char *s2)
 		concat_str[concat_index++] = s2[index];
 
 	return (concat_str);
-}
+ }
