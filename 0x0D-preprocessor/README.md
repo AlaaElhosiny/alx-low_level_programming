@@ -4,34 +4,6 @@
 -   By Julien Barbier & Johan Euphrosine, Software Engineer at Google
 
 
-Resources
----------
-
-**Read or watch**:
-
--   [Understanding C program Compilation Process](https://alx-intranet.hbtn.io/rltoken/73Xp4zJlc-orfeEzmlYVDg "Understanding C program Compilation Process")
--   [Object-like Macros](https://alx-intranet.hbtn.io/rltoken/kaqIw352MSJ8xoi1xU09ZA "Object-like Macros")
--   [Macro Arguments](https://alx-intranet.hbtn.io/rltoken/wcQZzunlgjepxExZFc2ORQ "Macro Arguments")
--   [Pre Processor Directives in C](https://alx-intranet.hbtn.io/rltoken/S4zfCHzg82fUAxdt8_SaZQ "Pre Processor Directives in C")
--   [The C Preprocessor](https://alx-intranet.hbtn.io/rltoken/G33GiOIZofiIN4Tx9_acbQ "The C Preprocessor")
--   [Standard Predefined Macros](https://alx-intranet.hbtn.io/rltoken/0OYhpL2cJfsIMBWhTuZsAA "Standard Predefined Macros")
--   [include guard](https://alx-intranet.hbtn.io/rltoken/oF2vgIZNePdU965jCEZLHA "include guard")
--   [Common Predefined Macros](https://alx-intranet.hbtn.io/rltoken/ROl5xAMKX-JpenEqmf7FnQ "Common Predefined Macros")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/OnMlvyxq0Mzr-7GHRPI9tQ "explain to anyone"), **without the help of Google**:
-
-### General
-
--   What are macros and how to use them
--   What are the most common predefined macros
--   How to include guard your header files
-
-Requirements
-------------
-
 ### General
 
 -   Allowed editors: `vi`, `vim`, `emacs`
