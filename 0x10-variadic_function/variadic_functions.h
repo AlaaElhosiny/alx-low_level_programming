@@ -11,7 +11,7 @@ void print_all(const char * const format, ...);
  * @func: function
  */
 typedef struct op
-{
+ {
 	char op;
 	void (*func)(va_list);
 } op_t;
