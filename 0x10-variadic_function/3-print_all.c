@@ -81,4 +81,4 @@ void print_char(va_list ap)
 void print_float(va_list ap)
 {
 	printf("%f", va_arg(ap, double));
-}
+ }
