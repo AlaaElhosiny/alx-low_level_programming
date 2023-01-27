@@ -2,40 +2,6 @@
 =============================
 
 -   By Julien Barbier
--   Ongoing project - started 10-07-2021, must end by 10-08-2021 (in about 9 hours) - you're done with 0% of tasks.
--   Checker was released at 10-07-2021 06:00 PM
--   QA review fully automated.
-
-Concepts
---------
-
-*For this project, students are expected to look at this concept:*
-
--   [Data Structures](https://alx-intranet.hbtn.io/concepts/120)
-
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif)
-
-Resources
----------
-
-**Read or watch**:
-
--   [Linked Lists](https://alx-intranet.hbtn.io/rltoken/joxg32-tt4lUh8Afgst8tA "Linked Lists")
--   [Google](https://alx-intranet.hbtn.io/rltoken/USaZbNdfcuIFII-K2YPsKQ "Google")
--   [Youtube](https://alx-intranet.hbtn.io/rltoken/epKUCIcoA6XaN1T3Vtr_9w "Youtube")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/-nidxOqh9IU1Kx0WXKHY5Q "explain to anyone"), **without the help of Google**:
-
-### General
-
--   When and why using linked lists vs arrays
--   How to build and use linked lists
-
-Requirements
-------------
 
 ### General
 
