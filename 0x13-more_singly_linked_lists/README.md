@@ -3,27 +3,6 @@
 
 -   By Julien Barbier
 
-Resources
----------
-
-**Read or watch**:
-
--   [Google](https://alx-intranet.hbtn.io/rltoken/2-7-eVuWcPutbXf6YZZgiA "Google")
--   [Youtube](https://alx-intranet.hbtn.io/rltoken/wVWwl86ufLMsXeAigpxllg "Youtube")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/d9FsoxQ0kh9YF-C7brwT1A "explain to anyone"), **without the help of Google**:
-
-### General
-
--   How to use linked lists
--   Start to look for the right source of information without too much help
-
-Requirements
-------------
-
 ### General
 
 -   Allowed editors: `vi`, `vim`, `emacs`
