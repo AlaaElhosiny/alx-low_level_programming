@@ -20,4 +20,4 @@ int pop_listint(listint_t **head)
 	my_data = tp->n;
 	free(tp);
 	return (my_data);
-
+}
