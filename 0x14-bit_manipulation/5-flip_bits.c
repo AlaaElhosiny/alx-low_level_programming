@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
 *flip_bits - gets the number of bits to flip to get from n to m
